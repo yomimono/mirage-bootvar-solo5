@@ -17,5 +17,5 @@ remove: [
 depends: [
   "mirage-solo5"
   "mirage-types"
-  "astring"
+  "bos"
 ]
